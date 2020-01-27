@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580129390 source:c:\users\nitish pratap\desktop\movie\project\zoo problem hackerrank\main.c
+	<stdio.h>
+	<stdlib.h>
+
